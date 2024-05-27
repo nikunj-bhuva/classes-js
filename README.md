@@ -1,1 +1,1 @@
-# classes-js
+# classesinjs
